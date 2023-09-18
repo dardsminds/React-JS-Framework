@@ -9,8 +9,7 @@ to randomize the bart chart on the page.
 I also used the RequireJS to include react and react-dom javascript files, this is to make sure that reactjs can  be
 integrated to our existing system that uses the same setup.
 
-![ReactJS demo screen shot](https://github.com/DealereEProcess/JavascriptFrameworks/blob/fd500fd8d15ebc161d39c637cd6b9f4c29a87113/react/dario/Screen%20Shot%202021-12-30%20at%203.51.15%20PM.png "ReactJS demo screen")
-
+--
 run php server:
 php -S localhost:8000
 
