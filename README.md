@@ -10,6 +10,6 @@ I also used the RequireJS to include react and react-dom javascript files, this 
 integrated to our existing system that uses the same setup.
 
 --
-run php server:
+## run php server
 php -S localhost:8000
 
